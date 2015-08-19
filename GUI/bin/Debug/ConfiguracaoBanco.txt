@@ -1,0 +1,4 @@
+DELXP\SQLEXPRESS
+ControleDeEstoque
+sa
+123456

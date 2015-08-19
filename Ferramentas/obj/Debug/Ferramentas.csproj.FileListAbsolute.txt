@@ -1,0 +1,10 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb

@@ -1,0 +1,14 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.pdb

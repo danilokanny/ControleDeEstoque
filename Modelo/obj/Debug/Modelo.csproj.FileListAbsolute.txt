@@ -1,0 +1,9 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
